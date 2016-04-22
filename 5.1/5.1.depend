@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451588095 source:c:\users\sujit_000\documents\5.1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
